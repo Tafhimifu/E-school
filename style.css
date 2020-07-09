@@ -44,7 +44,7 @@
 .logo-image{
 width: 250px;
 height: 62px;
-margin-left:70%;
+margin-left: 70%;
 top: 30px;
 
 }
@@ -234,16 +234,16 @@ line-height: 30px;
     background-color:whitesmoke;
     
 }
-.career{
-left:10px;
+.review{
+    padding:0% 4% 2% 3%;
+    
 }
 .inform{
     padding:20px 25px 10px;
     margin: 10px 0px;
+   
 }
-.review{
-    height:500px;
-}
+
 
 .app-image{
         width: 30%;
@@ -252,4 +252,6 @@ left:10px;
 }
 .touch-section{
     margin-left: 10%;
+    padding:3% 1% 2% 3%;
+    
 }
